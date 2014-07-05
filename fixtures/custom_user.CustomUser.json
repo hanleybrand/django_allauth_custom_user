@@ -1,0 +1,21 @@
+[
+{
+  "pk": 1,
+  "model": "custom_user.CustomUser",
+  "fields": {
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "is_active": true,
+    "is_superuser": true,
+    "is_staff": true,
+    "last_login": "2014-07-02T20:55:05.113Z",
+    "gender": "O",
+    "date_of_birth": "1999-01-01",
+    "user_permissions": [],
+    "password": "pbkdf2_sha256$12000$pGZ75bePDcZ1$bx4CNJ/Y0lDu5MnCUDrJ+UqZTGVcAQQSfM64JESLAjc=",
+    "email": "admin@admin.com",
+    "date_joined": "2014-07-02T20:55:05.113Z"
+  }
+}
+]
